@@ -1,4 +1,15 @@
-## Welcome to GitHub Pages
+# Growth Mindset
+
+Hi my name is Johnny Barragan. 
+
+## Here is my definition of Growth Mindset: 
+
+*Growth mindset is thinking about a problem or a challenge through a positive light. Hard work and dedication will often lead to positive results. While there may be challenges along the way, it is important to remain humble and learn from criticism. The opposite of a growth mindset is a fixed mindset which often leads to unfulfilled potential.*
+
+###### Reminders to maintain Growth Mindset
+- Listen to criticism and incorporate feedback 
+- Think about every project as a learning opportunity vs a waste of time
+- If I get frustrated with a problem, it's OK take a break and get back after it! 
 
 You can use the [editor on GitHub](https://github.com/johnhbarragan/johnhbarragan.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
