@@ -1,6 +1,7 @@
 Hi my name is Johnny Barragan. My GitHub portfolio page is located [here](https://github.com/johnhbarragan)
 
 # Growth Mindset
+After reading the following [article](https://www.atlassian.com/blog/inside-atlassian/growth-mindset), here are my thoughts...
 
 ## My definition of Growth Mindset: 
 
