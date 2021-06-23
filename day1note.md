@@ -1,7 +1,6 @@
 # Learning Markdown
 
-Markdown is a lightweight and easy to use syntax for styling all forms or writing on the Github platform. Mostly, Markdown is just 
-regular text with a few non alphabetic characters thrown in, like # or * 
+Markdown is a lightweight and easy to use syntax for styling all forms or writing on the Github platform. Github is a host site for software development and it helps build websites through efficient/simple coding. Mostly, Markdown is just regular text with a few non alphabetic characters thrown in, like # or * 
 
 ## Basic Writing cheatsheet
 1. ** **  = Bold
