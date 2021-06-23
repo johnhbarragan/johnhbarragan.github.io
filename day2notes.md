@@ -15,5 +15,7 @@ The text editor is one the most important tools for an aspiring developer. A tex
 
 **EVERY COMPUTER HAS ITS OWN TEXT EDITOR** - Mac = Text Edit Windows = Notepad
 
+**THIRD PARTY OPTIONS** - Notepad++, Text Wrangler, BB Edit, Visual Studio Code, Atom, Brackets, and Sublime Text.
+
 
 [Source](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
