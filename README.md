@@ -1,4 +1,4 @@
-Hi my name is Johnny Barragan. My GitHub portfolio page is located [here](https://github.com/johnhbarragan)
+Hi my name is Johnny Barragan. I've been working in real eastate over the last 10 years and I'm excited to transition into a career in software development. Feel free to check out my GitHub portfolio page, located [here](https://github.com/johnhbarragan)
 
 # Growth Mindset
 After reading the following [article](https://www.atlassian.com/blog/inside-atlassian/growth-mindset), here are my thoughts...
