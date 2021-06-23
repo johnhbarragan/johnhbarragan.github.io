@@ -1,6 +1,6 @@
 # Growth Mindset
 
-Hi my name is Johnny Barragan. 
+Hi my name is Johnny Barragan. My GitHub portfolio page is located [here](https://github.com/johnhbarragan)
 
 ## Here is my definition of Growth Mindset: 
 
