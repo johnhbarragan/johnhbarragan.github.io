@@ -10,14 +10,14 @@ A bit more about me:
 ![University of Washington](https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/98/2014/09/07212308/Logos-FeatureImage.png)
 
 
-* Favorite Food are Cheesburgers!
+* Favorite Food are Cheeseburgers!
 
- ![Cheeseburger](https://image.pngaaa.com/862/126862-small.png)
+ ![Cheeseburger](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShWblH6lsfjZSshtIv3OwSu802tPrDiCxJZw&usqp=CAU)
 
 
 
 # Table of Contents
-* [Day 1: Learning Markdown](https://johnhbarragan.github.io/reading-notes/day1note)
+* [Day 1: Growth Mindset and Learning Markdown](https://johnhbarragan.github.io/reading-notes/day1note)
 
 * [Day 2: What is a Code Editor](https://johnhbarragan.github.io/reading-notes/day2notes)
 
