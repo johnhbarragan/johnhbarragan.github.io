@@ -3,11 +3,16 @@ Hi my name is Johnny Barragan. I've been working in real eastate over the last 1
 
 A bit more about me: 
 
-* I went to the ![University of Washington](https://cpng.pikpng.com/pngl/s/335-3351378_home-university-of-washington-logo-clipart.png)
-
 * Live in Seattle with my beautiful wife, Dominique, and our dog Ernie
 
-* Favorite Food is ![Cheeseburger](https://img2.pngio.com/mcdonalds-double-cheeseburger-mcdonalds-quarter-pounder-double-cheeseburger-png-728_380.jpg)
+* I went to the University of Washington
+
+![University of Washington](https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/98/2014/09/07212308/Logos-FeatureImage.png)
+
+
+* Favorite Food are Cheesburgers!
+
+ ![Cheeseburger](https://image.pngaaa.com/862/126862-small.png)
 
 
 
