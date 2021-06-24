@@ -11,8 +11,6 @@ After reading the following [article](https://www.atlassian.com/blog/inside-atla
 * If I get frustrated with a problem, it's OK take a break and get back after it! 
 
 
-
-
 # Learning Markdown
 
 Markdown is a lightweight and easy to use syntax for styling all forms or writing on the Github platform. Github is a host site for software development and it helps build websites through efficient/simple coding. Mostly, Markdown is just regular text with a few non alphabetic characters thrown in, like # or * 
