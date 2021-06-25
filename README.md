@@ -22,3 +22,5 @@ A bit more about me:
 * [Day 2: What is a Code Editor](https://johnhbarragan.github.io/reading-notes/day2notes)
 
 * [Day 3: Using Git and Github](https://johnhbarragan.github.io/reading-notes/day3notes) 
+
+* [Day 4: HTML](https://johnhbarragan.github.io/reading-notes/day4notes)
