@@ -25,4 +25,6 @@ A bit more about me:
 
 * [Day 4: HTML](https://johnhbarragan.github.io/reading-notes/day4notes)
 
-* [Day 5: CSS](https://johnhbarragan.github.io/reading-notes/day4notes)
+* [Day 5: CSS](https://johnhbarragan.github.io/reading-notes/day5notes)
+
+* [Day 6: JavsScript](https://johnhbarragan.github.io/reading-notes/day6notes)
