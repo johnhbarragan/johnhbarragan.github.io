@@ -28,3 +28,7 @@ A bit more about me:
 * [Day 5: CSS](https://johnhbarragan.github.io/reading-notes/day5notes)
 
 * [Day 6: JavsScript](https://johnhbarragan.github.io/reading-notes/day6notes)
+
+* [Day 7: Functions and Comparison Operators](https://johnhbarragan.github.io/reading-notes/day7notes)
+
+* [Day 8: Loops](https://johnhbarragan.github.io/reading-notes/day8notes)
