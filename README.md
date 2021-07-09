@@ -33,3 +33,23 @@ A bit more about me:
 * [Day 7: Functions and Comparison Operators](https://johnhbarragan.github.io/reading-notes/day7notes)
 
 * [Day 8: Loops](https://johnhbarragan.github.io/reading-notes/day8notes)
+
+
+# Code 201 Reading Notes
+## Table of Contents
+
+* Day 1
+* Day 2
+* Day 3
+* Day 4
+* Day 5
+* Day 6
+* Day 7
+* Day 8
+* Day 9
+* Day 10
+* Day 11
+* Day 12
+* Day 13
+* Day 14
+* Day 15
