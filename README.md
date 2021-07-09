@@ -1,5 +1,5 @@
 
-Hi my name is Johnny Barragan. I've been working in real eastate over the last 10 years and I'm excited to transition into a career in software development. Feel free to check out my GitHub portfolio page, located [here](https://github.com/johnhbarragan)
+Hi my name is Johnny Barragan :wave: I've been working in real eastate over the last 10 years and I'm excited to transition into a career in software development. Feel free to check out my GitHub portfolio page, located [here](https://github.com/johnhbarragan)
 
 A bit more about me: 
 
@@ -19,40 +19,38 @@ A bit more about me:
 # Code 102 Reading Notes 
 ## Table of Contents 
 
-* [Day 1: Growth Mindset and Learning Markdown](https://johnhbarragan.github.io/reading-notes/day1note)
+* [**Day 1: Growth Mindset and Learning Markdown**](https://johnhbarragan.github.io/reading-notes/day1note)
 
-* [Day 2: What is a Code Editor](https://johnhbarragan.github.io/reading-notes/day2notes)
+* [**Day 2: What is a Code Editor**](https://johnhbarragan.github.io/reading-notes/day2notes)
 
-* [Day 3: Using Git and Github](https://johnhbarragan.github.io/reading-notes/day3notes) 
+* [**Day 3: Using Git and Github**](https://johnhbarragan.github.io/reading-notes/day3notes) 
 
-* [Day 4: HTML](https://johnhbarragan.github.io/reading-notes/day4notes)
+* [**Day 4: HTML**](https://johnhbarragan.github.io/reading-notes/day4notes)
 
-* [Day 5: CSS](https://johnhbarragan.github.io/reading-notes/day5notes)
+* [**Day 5: CSS**](https://johnhbarragan.github.io/reading-notes/day5notes)
 
-* [Day 6: JavsScript](https://johnhbarragan.github.io/reading-notes/day6notes)
+* [**Day 6: JavsScript**](https://johnhbarragan.github.io/reading-notes/day6notes)
 
-* [Day 7: Functions and Comparison Operators](https://johnhbarragan.github.io/reading-notes/day7notes)
+* [**Day 7: Functions and Comparison Operators**](https://johnhbarragan.github.io/reading-notes/day7notes)
 
-* [Day 8: Loops](https://johnhbarragan.github.io/reading-notes/day8notes)
+* [**Day 8: Loops**](https://johnhbarragan.github.io/reading-notes/day8notes)
 
 
 # Code 201 Reading Notes
 ## Table of Contents
 
-Day | Notes
------------- | -------------
-Day 1 | Notes
-Day 2 | Notes
-Day 3 | Notes
-Day 4 | Notes
-Day 5 | Notes
-Day 6 | Notes
-Day 7 | Notes
-Day 8 | Notes
-Day 9 | Notes
-Day 10 | Notes
-Day 11 | Notes
-Day 12 | Notes
-Day 13 | Notes
-Day 14 | Notes
-Day 15 | Notes
+* Day 1
+* Day 2
+* Day 3
+* Day 4
+* Day 5
+* Day 6
+* Day 7
+* Day 8
+* Day 9
+* Day 10
+* Day 11
+* Day 12
+* Day 13
+* Day 14
+* Day 15
