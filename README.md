@@ -17,9 +17,9 @@ A bit more about me:
 
 
 # Code 102 Reading Notes 
-Table of Contents |
------------------ |
-[Day 1: Growth Mindset and Learning Markdown](https://johnhbarragan.github.io/reading-notes/day1note) |
+## Table of Contents 
+
+* [Day 1: Growth Mindset and Learning Markdown](https://johnhbarragan.github.io/reading-notes/day1note)
 
 * [Day 2: What is a Code Editor](https://johnhbarragan.github.io/reading-notes/day2notes)
 
@@ -54,3 +54,8 @@ Table of Contents |
 * Day 13
 * Day 14
 * Day 15
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
