@@ -20,19 +20,21 @@ Useful tools to mapping out site are a **Site Map** and a **Wireframe**
 
 HTML desbribes the structures of web pages. Think about a newspaper or Microsoft word document, each has beginning, middle, and an end blocks. HTML code lives inside angled brackets. For example: `<body></body>` or `<head></head>` Example of basic HTML with a header and a body: 
 
-`<!DOCTYPE html>`
-`<html>`
-`<head>`
-  `<title>My First HTML</title>`
-  `<meta charset="UTF-8">`
-`</head>`
-`<body>`
+```
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My First HTML</title>
+  <meta charset="UTF-8">
+</head>
+<body>
 
-`<p>The HTML head element contains meta data.</p>`
-`<p>Meta data is data about the HTML document.</p>`
+<p>The HTML head element contains meta data.</p>
+<p>Meta data is data about the HTML document.</p>
 
-`</body>`
-`</html>`
+</body>
+</html>
+```
 
 ### HTML5
 
