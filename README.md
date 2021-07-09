@@ -16,7 +16,8 @@ A bit more about me:
 
 
 
-# Table of Contents
+# Code 102 Reading Notes 
+## Table of Contents
 * [Day 1: Growth Mindset and Learning Markdown](https://johnhbarragan.github.io/reading-notes/day1note)
 
 * [Day 2: What is a Code Editor](https://johnhbarragan.github.io/reading-notes/day2notes)
