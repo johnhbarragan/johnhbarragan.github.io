@@ -1,5 +1,5 @@
 
-Hi my name is Johnny Barragan :wave: I've been working in real eastate over the last 10 years and I'm excited to transition into a career in software development. Feel free to check out my GitHub portfolio page, located [here](https://github.com/johnhbarragan)
+Hi my name is Johnny Barragan. I've been working in real eastate over the last 10 years and I'm excited to transition into a career in software development. Feel free to check out my GitHub portfolio page, located [here](https://github.com/johnhbarragan)
 
 A bit more about me: 
 
