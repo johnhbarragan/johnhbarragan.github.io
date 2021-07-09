@@ -39,7 +39,7 @@ A bit more about me:
 # Code 201 Reading Notes
 ## Table of Contents
 
-* Day 1
+* [**Day 1: Structuring a Website: HTML & JS**](https://johnhbarragan.github.io/reading-notes/class-01)
 * Day 2
 * Day 3
 * Day 4
