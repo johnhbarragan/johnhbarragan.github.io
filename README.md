@@ -39,23 +39,20 @@ A bit more about me:
 # Code 201 Reading Notes
 ## Table of Contents
 
-* Day 1
-* Day 2
-* Day 3
-* Day 4
-* Day 5
-* Day 6
-* Day 7
-* Day 8
-* Day 9
-* Day 10
-* Day 11
-* Day 12
-* Day 13
-* Day 14
-* Day 15
-
-First Header | Second Header
+Day | Notes
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Day 1 | Notes
+Day 2 | Notes
+Day 3 | Notes
+Day 4 | Notes
+Day 5 | Notes
+Day 6 | Notes
+Day 7 | Notes
+Day 8 | Notes
+Day 9 | Notes
+Day 10 | Notes
+Day 11 | Notes
+Day 12 | Notes
+Day 13 | Notes
+Day 14 | Notes
+Day 15 | Notes
