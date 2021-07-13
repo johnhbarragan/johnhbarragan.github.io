@@ -40,7 +40,9 @@ A bit more about me:
 ## Table of Contents
 
 * [**Day 1: Structuring a Website: HTML & JS**](https://johnhbarragan.github.io/reading-notes/class-01)
+
 * [**Day 2: Basics of HTML, CSS & JS**](https://johnhbarragan.github.io/reading-notes/class-02)
+
 * Day 3
 * Day 4
 * Day 5
