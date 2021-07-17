@@ -39,11 +39,12 @@ A bit more about me:
 # Code 201 Reading Notes
 ## Table of Contents
 
-* [**Day 1: Structuring a Website: HTML & JS**](https://johnhbarragan.github.io/reading-notes/class-01)
+* [**Read 1: Structuring a Website: HTML & JS**](https://johnhbarragan.github.io/reading-notes/class-01)
 
-* [**Day 2: Basics of HTML, CSS & JS**](https://johnhbarragan.github.io/reading-notes/class-02)
+* [**Read 2: Basics of HTML, CSS & JS**](https://johnhbarragan.github.io/reading-notes/class-02)
 
-* Day 3
+* [**Read 3: HTML Lists, Control Flow with JS, and the CSS Box Model](https://johnhbarragan.github.io/reading-notes/read-03)
+
 * Day 4
 * Day 5
 * Day 6
