@@ -58,3 +58,6 @@ Loops offer a quick and easy way to do something repeatedly. Loops are a compute
   - If the condition becomes false, statement within the loop stops executing and control passes to the statement following the loop.
 
 - break statement: Use the break statement to terminate a loop, switch, or in conjunction with a labeled statement.
+
+Source: Duckett, Jon. HTML & CSS. John Wiley & Sons Inc. 2011
+Source: Duckett, Jon. JAVASCRIPT & JQUERY. John Wiley & Sons Inc. 2014 

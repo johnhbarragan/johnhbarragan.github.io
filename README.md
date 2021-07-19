@@ -43,9 +43,10 @@ A bit more about me:
 
 * [**Read 2: Basics of HTML, CSS & JS**](https://johnhbarragan.github.io/reading-notes/class-02)
 
-* [**Read 3: HTML Lists, Control Flow with JS, and the CSS Box Model](https://johnhbarragan.github.io/reading-notes/read-03)
+* [**Read 3: HTML Lists, Control Flow with JS, and the CSS Box Model**](https://johnhbarragan.github.io/reading-notes/read-03)
 
-* Day 4
+* [**Read 4: HTML Links, JS Functions, and Intro to CSS Layout**](https://johnhbarragan.github.io/reading-notes/read-04)
+
 * Day 5
 * Day 6
 * Day 7
