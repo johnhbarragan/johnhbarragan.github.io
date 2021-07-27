@@ -47,9 +47,10 @@ A bit more about me:
 
 * [**Read 4: HTML Links, JS Functions, and Intro to CSS Layout**](https://johnhbarragan.github.io/reading-notes/read-04)
 
-* [**Ready 5: Images, Color, Text**](https://johnhbarragan.github.io/reading-notes/read-05)
+* [**Read 5: Images, Color, Text**](https://johnhbarragan.github.io/reading-notes/read-05)
 
-* Day 6
+* [**Read 6: Problem Domain, Objects, and the DOM**](https://johnhbarragan.github.io/reading-notes/read-06)
+
 * Day 7
 * Day 8
 * Day 9
