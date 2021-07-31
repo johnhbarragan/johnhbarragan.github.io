@@ -51,7 +51,7 @@ A bit more about me:
 
 * [**Read 6: Problem Domain, Objects, and the DOM**](https://johnhbarragan.github.io/reading-notes/read-06)
 
-* Day 7
+* [**Read 7: Objeect Oriented Programming, HTML Tables**](https://johnhbarragan.github.io/reading-notes/read-07)
 * Day 8
 * Day 9
 * Day 10
