@@ -52,7 +52,9 @@ A bit more about me:
 * [**Read 6: Problem Domain, Objects, and the DOM**](https://johnhbarragan.github.io/reading-notes/read-06)
 
 * [**Read 7: Objeect Oriented Programming, HTML Tables**](https://johnhbarragan.github.io/reading-notes/read-07)
-* Day 8
+
+* [**Read 8: CSS Layout**](https://johnhbarragan.github.io/reading-notes/read-08)
+
 * Day 9
 * Day 10
 * Day 11
