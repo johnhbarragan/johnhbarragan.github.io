@@ -61,3 +61,8 @@ Example: `element.oneEvent = functionName;`. You can only attach a single functi
 ### EVENT LISTENERS
 A more recent approach to handling events. They can deal with more than one function at a time but they are not supported in older browsers. Favored way of handling events. Example format: 
   * `element.addEventListener('event', functionName [, Boolean]);` see page 254
+
+
+Source: Duckett, Jon. HTML & CSS. John Wiley & Sons Inc. 2011
+
+Source: Duckett, Jon. JAVASCRIPT & JQUERY. John Wiley & Sons Inc. 2014 

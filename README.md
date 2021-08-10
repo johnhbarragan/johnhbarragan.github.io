@@ -57,7 +57,8 @@ A bit more about me:
 
 * [**Read 9: CSS Forms and Events**](https://johnhbarragan.github.io/reading-notes/read-09)
 
-* Day 10
+* [**Read 10: Debugging**](https://johnhbarragan.github.io/reading-notes/read-10)
+
 * Day 11
 * Day 12
 * Day 13
