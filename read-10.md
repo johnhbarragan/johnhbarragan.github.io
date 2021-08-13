@@ -16,3 +16,9 @@ If a JS statement generates an error, then it throws an **EXCEPTION**. Examples:
 When finding an error in google Chrome, you can type in the console and it will show you a results 
 
 If you know your code might fail, use **try**, **catch**, and **finally** (see page 480-481)
+
+
+
+Source: Duckett, Jon. HTML & CSS. John Wiley & Sons Inc. 2011
+
+Source: Duckett, Jon. JAVASCRIPT & JQUERY. John Wiley & Sons Inc. 2014 

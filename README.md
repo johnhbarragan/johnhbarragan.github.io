@@ -59,7 +59,8 @@ A bit more about me:
 
 * [**Read 10: Debugging**](https://johnhbarragan.github.io/reading-notes/read-10)
 
-* Day 11
+* [**Read 11: Assorted Topics**](https://johnhbarragan.github.io/reading-notes/read-11)
+
 * Day 12
 * Day 13
 * Day 14
