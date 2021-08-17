@@ -8,4 +8,4 @@ You need to download Chart.js (insert `<script>` in HTML file) along with a sing
 
 Canvas only supports two primitive shapes: rectanlges and paths (lists of points connected by lines). All other shapes must be created by combining one or more paths. 
 
-You can draw rectangles, paths, triangles, arcs using `functions`
+You can draw rectangles, paths, triangles, arcs using `functions`1
