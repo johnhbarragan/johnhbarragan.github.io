@@ -61,7 +61,8 @@ A bit more about me:
 
 * [**Read 11: Assorted Topics**](https://johnhbarragan.github.io/reading-notes/read-11)
 
-* Day 12
+* [**Read 12: Char.js, Canvas**](https://johnhbarragan.github.io/reading-notes/read-12)
+
 * Day 13
 * Day 14
 * Day 15
