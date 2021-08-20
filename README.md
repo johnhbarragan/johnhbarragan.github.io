@@ -63,6 +63,7 @@ A bit more about me:
 
 * [**Read 12: Char.js, Canvas**](https://johnhbarragan.github.io/reading-notes/read-12)
 
-* Day 13
+* [**Read 13: Local Storage**](https://johnhbarragan.github.io/reading-notes/read-13)
+
 * Day 14
 * Day 15
