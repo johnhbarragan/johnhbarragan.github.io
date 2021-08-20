@@ -15,3 +15,5 @@ HTML5 storage is based on named key/value pairs with the key being a string. If 
 
 ## Tracking changes to the storage area
 You can trap the storage event whenever a `setItem()`, `removeItem()`, or `clear()` is called and actually changes something. 
+
+[Source](http://diveinto.html5doctor.com/storage.html#divingin)
